@@ -1,6 +1,6 @@
 # [Target #8 - Forking Crazy](https://cssbattle.dev/play/8)
 
-![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%231_Simply_Square.png)
+![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%238_Forking_Crazy.PNG)
 
 ```HTML
 <!--Method 1-->
