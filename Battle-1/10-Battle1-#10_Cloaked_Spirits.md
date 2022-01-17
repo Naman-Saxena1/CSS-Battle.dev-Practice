@@ -110,5 +110,79 @@
 
 
 <!--Method 2-->
-
+<div id="main-container">
+  <div id="circle-container">
+    <div class="corner-circle"></div>
+    <div class="center-circle"></div>
+    <div class="corner-circle"></div>
+  </div>
+  <div id="platform">
+    <div class="corner-platform"></div>
+    <div class="center-platform"></div>
+    <div class="corner-platform"></div>
+  </div>
+</div>
+<style>
+  body
+  {
+    background-color: #62306D;
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  #main-container {
+    width: 300px;
+    height: 150px;
+  }
+  #circle-container
+  {
+    width: 300px;
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .corner-circle
+  {
+    display: absolute;
+    width: 60px;
+    height: 60px;
+    background-color: #E38F66;
+    border-radius: 100%;
+    margin: 0 10px;
+    box-shadow: 0 0 0 20px #AA445F;
+  }
+  .center-circle
+  {
+    width: 60px;
+    height: 60px;
+    background-color: #AA445F;
+    border-radius: 100%;
+    margin: -200px 20px 0 20px;
+    box-shadow: 0 0 0 20px #E38F66;
+  }
+  #platform
+  {
+    width: 300px;
+    height: 50px;
+    display: flex;
+  }
+  .corner-platform
+  {
+    z-index: -1;
+    width: 100px;
+    height: 100px;
+    background-color: #F7EC7D;
+    margin: -50px 0;
+  }
+  .center-platform
+  {
+    z-index: -1;
+    width: 100px;
+    height: 200px;
+    background-color: #F7EC7D;
+    margin: -150px 0;
+  }
+</style>
 ```
