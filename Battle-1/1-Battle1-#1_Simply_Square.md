@@ -1,4 +1,4 @@
-# [Target #1 - Max Volume](https://cssbattle.dev/play/1)
+# [Target #1 - Simply Square](https://cssbattle.dev/play/1)
 
 ![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%231_Simply_Square.png)
 
