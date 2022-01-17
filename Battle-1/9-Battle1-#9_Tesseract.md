@@ -1,6 +1,6 @@
 # [Target #9 - Tesseract](https://cssbattle.dev/play/9)
 
-![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%239_Tesseract.png)
+![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%239_Tesseract.PNG)
 
 ```HTML
 <div id="main-rectangle">
