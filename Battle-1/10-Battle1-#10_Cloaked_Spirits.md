@@ -1,6 +1,6 @@
 # [Target #10 - Cloaked Spirits](https://cssbattle.dev/play/10)
 
-![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%240_Cloaked_Spirits.png)
+![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle-1-%2310_Cloaked_Spirits.PNG)
 
 ```HTML
 <!--Method 1-->
