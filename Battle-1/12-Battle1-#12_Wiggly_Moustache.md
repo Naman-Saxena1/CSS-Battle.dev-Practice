@@ -1,6 +1,6 @@
 # [Target #12 - Wiggly Moustache](https://cssbattle.dev/play/12)
 
-![]()
+![](https://github.com/Naman-Saxena1/CSS-Battle.dev-Practice/blob/main/Targets/Battle1-%2312_Wiggly_Moustache.PNG)
 
 ```HTML
 <div id="left-end"></div>
